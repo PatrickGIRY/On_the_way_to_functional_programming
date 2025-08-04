@@ -1,0 +1,6 @@
+[submodule "attendees-finder-js"]
+	path = attendees-finder-js
+	url = git@github.com:PatrickGIRY/attendees-finder-js.git
+[submodule "attendees-finder-hs"]
+	path = attendees-finder-hs
+	url = git@github.com:PatrickGIRY/attendees-finder-hs.git
